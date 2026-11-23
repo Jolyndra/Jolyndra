@@ -1,10 +1,6 @@
+<p align="center"><img src="./assets/hero.svg" alt="Lijian Yin — On-device Agents and LLM Systems" width="100%"></p>
+
 <div align="center">
-
-# Lijian Yin · 尹立健
-
-**On-device Agents · LLM Systems · Efficient Inference**
-
-M.S. student at Shanghai Jiao Tong University  ·  B.S. in Software Engineering from Beihang University
 
 [Research & projects](#selected-work)  ·  [Personal website](https://jolyndra.github.io/)  ·  [Email](mailto:jolyndra@sjtu.edu.cn)
 
@@ -16,11 +12,23 @@ I build and study agent systems that work across **local devices and cloud model
 
 ### Selected work
 
-| | |
-| :--- | :--- |
-| **[On-device agent research](https://github.com/SJTU-iBDS-Lab/mobile-workspace)** <br><sub>RESEARCH · IN PROGRESS</sub> | Local execution, cloud fallback, tool retrieval, and predictive prewarming. Evaluating agent behavior and system cost on reproducible benchmarks. |
-| **[Current project](https://github.com/husky-l/suzhou_proj)** <br><sub>ENGINEERING · IN PROGRESS</sub> | Ongoing collaborative implementation and experimentation. |
-| **Anaxa** <br><sub>UNDERGRADUATE THESIS</sub> | A communication library prototype for Attention–Expert disaggregated inference, exploring low-latency RDMA data paths and topology-aware routing. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SJTU-iBDS-Lab/mobile-workspace"><img src="./assets/research.svg" alt="On-device Agent Systems research repository" width="100%"></a>
+<br><br>
+Local execution, cloud fallback, tool retrieval, and predictive prewarming. Evaluating agent behavior and system cost on reproducible benchmarks.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/husky-l/suzhou_proj"><img src="./assets/project.svg" alt="Current engineering project repository" width="100%"></a>
+<br><br>
+Ongoing collaborative implementation and experimentation.
+</td>
+</tr>
+</table>
+
+**Anaxa** · Undergraduate thesis  
+A communication library prototype for Attention–Expert disaggregated inference, exploring low-latency RDMA data paths and topology-aware routing.
 
 ### Research interests
 
