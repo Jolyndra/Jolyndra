@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/hero.svg" alt="Lijian Yin — On-device Agents and LLM Systems" width="100%"></p>
+<p align="center"><img src="./assets/hero-v2.svg" alt="On-device Agents and LLM Systems" width="100%"></p>
 
 <div align="center">
 
@@ -20,7 +20,7 @@ I build and study agent systems that work across **local devices and cloud model
 Local execution, cloud fallback, tool retrieval, and predictive prewarming. Evaluating agent behavior and system cost on reproducible benchmarks.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/husky-l/suzhou_proj"><img src="./assets/finance-agent.svg" alt="金融 Agent project repository" width="100%"></a>
+<a href="https://github.com/husky-l/suzhou_proj"><img src="./assets/financial-agent.svg" alt="Financial Agent project repository" width="100%"></a>
 <br><br>
 A Skill Agent built on the OpenAI Agents SDK, with skill routing, tool execution, and traceable financial knowledge retrieval.
 </td>
