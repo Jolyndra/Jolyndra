@@ -16,7 +16,6 @@ I work on **on-device agents, cloud collaboration, and LLM systems**. I'm partic
 | --- | --- |
 | **Edge–cloud agent research** *(in progress)* | Evaluate local and cloud model collaboration, tool retrieval, fallback policies, and the latency–cost trade-off on agent benchmarks. |
 | **Anaxa** *(undergraduate thesis)* | A communication library prototype for Attention–Expert disaggregated inference, using RDMA and topology-aware paths for frequent small messages. |
-| **[Iteris](https://www.jolyndra.top/)** | A personal travel and life workspace built with Vue 3 and TypeScript, spanning trips, calendar, tickets, and retrospectives. |
 
 I'm open to research conversations, technical collaboration, and internships in agent systems and LLM infrastructure.
 
