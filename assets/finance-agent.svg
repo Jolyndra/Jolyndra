@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-label="金融 Agent">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10263C"/><stop offset="1" stop-color="#102C39"/></linearGradient></defs>
+<rect width="560" height="210" rx="18" fill="url(#g)"/><rect x="1" y="1" width="558" height="208" rx="17" fill="none" stroke="#49677A" stroke-opacity=".6"/>
+<circle cx="480" cy="45" r="90" fill="#9CB9FF" opacity=".07"/><circle cx="473" cy="126" r="68" fill="none" stroke="#9CB9FF" opacity=".18"/><circle cx="473" cy="126" r="42" fill="none" stroke="#9CB9FF" opacity=".2"/>
+<path d="M451 106L474 84L497 106L474 128L451 106ZM474 128L474 157M497 106L520 128M451 106L427 128" fill="none" stroke="#9CB9FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="27" width="4" height="25" rx="2" fill="#9CB9FF"/>
+<text x="44" y="45" fill="#9CB9FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">02  ·  ENGINEERING</text>
+<text x="28" y="108" fill="#F1F7FA" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">金融 Agent</text>
+<text x="28" y="143" fill="#ADC7D3" font-family="Arial, Helvetica, sans-serif" font-size="16">Skill routing  /  Tool use  /  Knowledge retrieval</text>
+<path d="M28 174H528" stroke="#7596A6" stroke-opacity=".28"/><text x="28" y="195" fill="#87A5B5" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">EXPLORE REPOSITORY</text>
+</svg>
