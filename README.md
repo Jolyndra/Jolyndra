@@ -20,7 +20,7 @@ I build and study agent systems that work across **local devices and cloud model
 Local execution, cloud fallback, tool retrieval, and predictive prewarming. Evaluating agent behavior and system cost on reproducible benchmarks.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/husky-l/suzhou_proj"><img src="./assets/project.svg" alt="Financial Agent project repository" width="100%"></a>
+<a href="https://github.com/husky-l/suzhou_proj"><img src="./assets/project.svg" alt="金融 Agent project repository" width="100%"></a>
 <br><br>
 A Skill Agent built on the OpenAI Agents SDK, with skill routing, tool execution, and traceable financial knowledge retrieval.
 </td>
