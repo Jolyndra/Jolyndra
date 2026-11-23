@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Lijian Yin — On-device Agents and LLM Systems</title>
-<desc id="desc">Dark blue gradient banner with subtle connected nodes, name and research focus.</desc>
+<title id="title">On-device Agents and LLM Systems</title>
+<desc id="desc">Dark blue gradient banner with subtle connected nodes, research focus.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071628"/><stop offset=".55" stop-color="#102C43"/><stop offset="1" stop-color="#0B2030"/></linearGradient>
   <radialGradient id="glow"><stop stop-color="#54D6C4" stop-opacity=".24"/><stop offset="1" stop-color="#54D6C4" stop-opacity="0"/></radialGradient>
@@ -18,9 +18,9 @@
 <rect x="64" y="49" width="190" height="31" rx="15.5" fill="#8BE8D5" fill-opacity=".11" stroke="#7CE3D2" stroke-opacity=".38"/>
 <circle cx="83" cy="64.5" r="4" fill="#7BE9D5"/>
 <text x="98" y="69" fill="#A8E7DD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">RESEARCH / SYSTEMS</text>
-<text x="64" y="164" fill="#F3F8FA" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Lijian Yin</text>
-<text x="66" y="203" fill="#A8BFCE" font-family="Arial, Helvetica, sans-serif" font-size="21">尹立健  ·  Shanghai Jiao Tong University</text>
+<text x="64" y="164" fill="#F3F8FA" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">On-device Agents</text>
+<text x="66" y="203" fill="#A8BFCE" font-family="Arial, Helvetica, sans-serif" font-size="21">Shanghai Jiao Tong University</text>
 <rect x="64" y="233" width="378" height="2" rx="1" fill="url(#line)"/>
-<text x="64" y="278" fill="#D6E7EC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">On-device Agents  ·  LLM Systems</text>
+<text x="64" y="278" fill="#D6E7EC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">LLM Systems  ·  Agent Infrastructure</text>
 <text x="64" y="312" fill="#A9C4D0" font-family="Arial, Helvetica, sans-serif" font-size="17">From local execution to cloud-scale inference.</text>
 </svg>
