@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lijian Yin 👋
 
-<!--
-**Jolyndra/Jolyndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in **Computer Science and Big Data Technology at Shanghai Jiao Tong University**. I received my B.S. in Software Engineering from **Beihang University**.
 
-Here are some ideas to get you started:
+I work on **on-device agents, cloud collaboration, and LLM systems**. I'm particularly interested in making agent execution more reliable and inference more efficient across local devices and cloud models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- **On-device agents & model routing:** local execution, cloud fallback, tool-use evaluation, and predictive prewarming.
+- **LLM infrastructure:** KV cache, serving, scheduling, and systems evaluation.
+- **Efficient communication:** low-latency data paths for distributed inference.
+
+### Selected work
+
+| Project | What I built / explore |
+| --- | --- |
+| **Edge–cloud agent research** *(in progress)* | Evaluate local and cloud model collaboration, tool retrieval, fallback policies, and the latency–cost trade-off on agent benchmarks. |
+| **Anaxa** *(undergraduate thesis)* | A communication library prototype for Attention–Expert disaggregated inference, using RDMA and topology-aware paths for frequent small messages. |
+| **[Iteris](https://www.jolyndra.top/)** | A personal travel and life workspace built with Vue 3 and TypeScript, spanning trips, calendar, tickets, and retrospectives. |
+
+I'm open to research conversations, technical collaboration, and internships in agent systems and LLM infrastructure.
+
+**[Email](mailto:jolyndra@sjtu.edu.cn) · [Personal website](https://jolyndra.github.io/) · [GitHub](https://github.com/Jolyndra)**
