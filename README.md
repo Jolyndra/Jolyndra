@@ -14,7 +14,8 @@ I work on **on-device agents, cloud collaboration, and LLM systems**. I'm partic
 
 | Project | What I built / explore |
 | --- | --- |
-| **Edge–cloud agent research** *(in progress)* | Evaluate local and cloud model collaboration, tool retrieval, fallback policies, and the latency–cost trade-off on agent benchmarks. |
+| **[Edge–cloud agent research](https://github.com/SJTU-iBDS-Lab/mobile-workspace)** *(in progress)* | Evaluate local and cloud model collaboration, tool retrieval, fallback policies, and the latency–cost trade-off on agent benchmarks. |
+| **[Current project](https://github.com/husky-l/suzhou_proj)** *(in progress)* | Project repository for ongoing implementation and collaboration. |
 | **Anaxa** *(undergraduate thesis)* | A communication library prototype for Attention–Expert disaggregated inference, using RDMA and topology-aware paths for frequent small messages. |
 
 I'm open to research conversations, technical collaboration, and internships in agent systems and LLM infrastructure.
