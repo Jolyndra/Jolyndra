@@ -1,23 +1,47 @@
-# Hi, I'm Lijian Yin 👋
+<div align="center">
 
-I'm a master's student in **Computer Science and Big Data Technology at Shanghai Jiao Tong University**. I received my B.S. in Software Engineering from **Beihang University**.
+# Lijian Yin · 尹立健
 
-I work on **on-device agents, cloud collaboration, and LLM systems**. I'm particularly interested in making agent execution more reliable and inference more efficient across local devices and cloud models.
+**On-device Agents · LLM Systems · Efficient Inference**
 
-### What I'm working on
+M.S. student at Shanghai Jiao Tong University  ·  B.S. in Software Engineering from Beihang University
 
-- **On-device agents & model routing:** local execution, cloud fallback, tool-use evaluation, and predictive prewarming.
-- **LLM infrastructure:** KV cache, serving, scheduling, and systems evaluation.
-- **Efficient communication:** low-latency data paths for distributed inference.
+[Research & projects](#selected-work)  ·  [Personal website](https://jolyndra.github.io/)  ·  [Email](mailto:jolyndra@sjtu.edu.cn)
+
+</div>
+
+---
+
+I build and study agent systems that work across **local devices and cloud models**. My current focus is on reliable tool use, model routing, KV cache, and the trade-offs between task success, latency, and inference cost.
 
 ### Selected work
 
-| Project | What I built / explore |
-| --- | --- |
-| **[Edge–cloud agent research](https://github.com/SJTU-iBDS-Lab/mobile-workspace)** *(in progress)* | Evaluate local and cloud model collaboration, tool retrieval, fallback policies, and the latency–cost trade-off on agent benchmarks. |
-| **[Current project](https://github.com/husky-l/suzhou_proj)** *(in progress)* | Project repository for ongoing implementation and collaboration. |
-| **Anaxa** *(undergraduate thesis)* | A communication library prototype for Attention–Expert disaggregated inference, using RDMA and topology-aware paths for frequent small messages. |
+| | |
+| :--- | :--- |
+| **[On-device agent research](https://github.com/SJTU-iBDS-Lab/mobile-workspace)** <br><sub>RESEARCH · IN PROGRESS</sub> | Local execution, cloud fallback, tool retrieval, and predictive prewarming. Evaluating agent behavior and system cost on reproducible benchmarks. |
+| **[Current project](https://github.com/husky-l/suzhou_proj)** <br><sub>ENGINEERING · IN PROGRESS</sub> | Ongoing collaborative implementation and experimentation. |
+| **Anaxa** <br><sub>UNDERGRADUATE THESIS</sub> | A communication library prototype for Attention–Expert disaggregated inference, exploring low-latency RDMA data paths and topology-aware routing. |
 
-I'm open to research conversations, technical collaboration, and internships in agent systems and LLM infrastructure.
+### Research interests
 
-**[Email](mailto:jolyndra@sjtu.edu.cn) · [Personal website](https://jolyndra.github.io/) · [GitHub](https://github.com/Jolyndra)**
+`On-device agents` &nbsp; `Model routing` &nbsp; `KV cache` &nbsp; `LLM serving` &nbsp; `RDMA communication`
+
+<details>
+<summary><strong>More about me</strong></summary>
+<br>
+
+I am pursuing an M.S. in Computer Science and Big Data Technology at **Shanghai Jiao Tong University**. I received my B.S. in Software Engineering from **Beihang University**.
+
+I enjoy turning research questions into measurable systems: building a baseline, tracing failures, and testing whether an optimization helps the full task rather than only a microbenchmark.
+
+</details>
+
+---
+
+<div align="center">
+
+Open to research conversations, technical collaboration, and internships in agent systems and LLM infrastructure.
+
+**[Get in touch](mailto:jolyndra@sjtu.edu.cn)** · **[Website](https://jolyndra.github.io/)**
+
+</div>
